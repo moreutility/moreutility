@@ -2,4 +2,4 @@
 
 Go download
 
-| ![Windows](url) | ![Mac](url) | ![Linux](url) |
+| ![Windows][(https://raw.githubusercontent.com/moreutility/moreutility/refs/heads/main/windows.png) | ![Mac](https://raw.githubusercontent.com/moreutility/moreutility/refs/heads/main/mac.png) | ![Linux](https://raw.githubusercontent.com/moreutility/moreutility/refs/heads/main/linux.png) |
